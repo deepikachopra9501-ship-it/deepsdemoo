@@ -1,2 +1,4 @@
 # deepsdemoo
-this is my first git repo
+this is my first git repository
+auther - Deepika Chopra
+
